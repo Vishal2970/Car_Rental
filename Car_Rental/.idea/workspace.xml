@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="18861360-71f6-4108-bf75-0c7761c10917" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/../Photos/1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos/11.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos/2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos/3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos/4.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos/5.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Photos/6.PNG" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +49,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/trainings/Desktop/Personal/Car_Rental/Car_Rental"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Car_Rental" />
@@ -63,8 +70,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -92,5 +99,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Main.java</url>
+          <line>220</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
